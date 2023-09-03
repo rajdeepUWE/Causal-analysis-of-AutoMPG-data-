@@ -66,3 +66,7 @@ Year: Causal Effect: 0.7300, p-value: 2.0473e-52
 Horsepower: Causal Effect: -0.1676, p-value: 1.3190e-11
 Acceleration: Causal Effect: -0.1695, p-value: 8.2971e-24
 These values indicate the estimated impact of each treatment variable on the target variable (MPG) and their associated statistical significance.
+
+View my medium post on this:- https://rajdeepsarkar95.medium.com/exploring-the-causal-effects-of-automobile-attributes-on-mpg-a-data-driven-approach-fbd5f0fb294a
+
+To learn about DoWHy library and Causal effects read this:- https://medium.com/python-in-plain-english/a-guide-to-downloading-and-installing-dowhy-in-python-jupyter-notebook-for-causal-analysis-4db2c09d22bb
